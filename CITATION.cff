@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use akiliwatch in your work, please cite it as below."
+title: "AkiliWatch: quality audit for chat-based AI tutors"
+version: 0.2.0
+date-released: 2026-11-19
+license: Apache-2.0
+authors:
+  - family-names: Diarrassouba
+    given-names: Daouda
+    affiliation: "AFRJIGI LLC"
+repository-code: "https://github.com/AFRJIGI/akiliwatch"
+url: "https://afrjigi.com"
+abstract: "A dependency-free toolkit that audits conversations between students and AI tutors in chat apps: deterministic checks plus an AI judge with a teacher's review grid. Extracted from the daily quality control of Akili, an AI tutor for Ivorian students."
+keywords: [education, AI tutor, evaluation, WhatsApp, Africa]

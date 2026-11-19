@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+prompts/
+akiliwatch-report.md
+*.jsonl
+!examples/sample_conversations.jsonl
+.env*

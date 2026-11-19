@@ -1,0 +1,12 @@
+[project]
+name = "akiliwatch"
+version = "0.2.0"
+description = "Daily quality audit for chat-based AI tutors"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "Apache-2.0" }
+dependencies = []
+
+[project.optional-dependencies]
+gemini = ["google-genai"]
+test = ["pytest"]
